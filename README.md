@@ -75,8 +75,8 @@ The results are remarkably better in the case of ```method 2``` regarding the nu
 ```
 ./subsets 118 7 1
 ```
-- number of assignments: 19657
-- time: more than 12 m
+- number of assignments: -
+- time: - (more than 12 m)
 
 ```
 ./subsets 118 7 2
